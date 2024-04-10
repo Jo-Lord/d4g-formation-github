@@ -1,2 +1,3 @@
 def hello_name(name, lastname):
-    return "Hello " + name + " " + lastname
+    return "Bonjour " + name + " " + lastname
+
