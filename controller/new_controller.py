@@ -1,3 +1,2 @@
 def hello_name(name, lastname,age):
-    return "Bonjour " + name + " " + lastname + " vous avez " + str(age) + " ans"
-
+    return "Hello " + name + " " + lastname + " you are " + str(age) + " old"
