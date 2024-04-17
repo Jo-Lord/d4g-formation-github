@@ -1,3 +1,3 @@
-def hello_name(name, lastname):
-    return "Bonjour " + name + " " + lastname
+def hello_name(name, lastname,age):
+    return "Bonjour " + name + " " + lastname + " vous avez " + str(age) + " ans"
 
